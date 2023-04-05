@@ -1,0 +1,2 @@
+This is my getc demo text.
+Hey Buddy
